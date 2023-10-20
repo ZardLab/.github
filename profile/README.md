@@ -1,4 +1,4 @@
-# Zard Labs
+# Zard Lab
 ## ZARD
 
 Zard Lab affectionately known as Zard, is a pioneering business organization at the forefront of the tech industry with a distinct emphasis on Human Research. Specializing primarily in the realm of self-development, Zard is dedicated to empowering individuals on their quest for personal growth and self-improvement.
